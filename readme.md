@@ -4,7 +4,8 @@
 A simple Telegram bot built with Python for practice and learning purposes.  
 This project helps beginners understand how Telegram bots work and how to build automation using Python.
 
-<img src="/bot-img.png">
+<img src="./bot-img.png" alt="Telegram Bot Preview" width="500">
+
 ---
 
 ## 🚀 Features
