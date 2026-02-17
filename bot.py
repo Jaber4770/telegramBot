@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-# it should be sectect but here i just keep it because its a practice project. 
+
 TOKEN = "your bot token"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
